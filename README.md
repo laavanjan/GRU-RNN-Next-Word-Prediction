@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project is a **Next Word Prediction** application using **Gated Recurrent Unit (GRU)** and **Long Short-Term Memory (LSTM)** models. It is built using **TensorFlow, Keras, and Streamlit** for an interactive user interface.
+This application uses Gated Recurrent Unit (GRU) and Long Short-Term Memory (LSTM) models to predict the next word in a sequence from Shakespeare's Hamlet. Built with TensorFlow, Keras, and Streamlit, it leverages deep learning to generate context-aware predictions based on previous words. The interactive Streamlit UI allows users to input text and receive predictions, showcasing the power of LSTM and GRU models in natural language processing.
+
+
 
 ## 🔗 Links
 
