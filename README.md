@@ -21,7 +21,7 @@ This application uses Gated Recurrent Unit (GRU) and Long Short-Term Memory (LST
 ## 🛠️ Tech Stack
 
 - 🐍 **Python 3.11**
-- 🤖 **TensorFlow 2.28/Keras** for deep learning
+- 🤖 **TensorFlow 2.18/Keras** for deep learning
 - 🌐 **Streamlit** for UI
 - 🗄️ **Pickle** for tokenizer storage
 - 🔢 **NumPy,Pandas** for numerical computations
