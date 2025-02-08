@@ -6,7 +6,7 @@ This project is a **Next Word Prediction** application using **Gated Recurrent U
 
 ## 🔗 Links
 
-- 🌐 **Live Demo:** [LLVE Demo](https://yourlivedemo.com)
+- 🌐 **Live Demo:** [LLVE Demo](https://gru-rnn-next-word-prediction-z3yqw82qfxbf3wqeeruhhg.streamlit.app/)
 - 📂 **GitHub Repo:** [GRU-RNN-Next-Word-Prediction](https://github.com/laavanjan/GRU-RNN-Next-Word-Prediction)
 
 ## ✨ Features
